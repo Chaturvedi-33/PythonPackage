@@ -1,1 +1,2 @@
-game 1: rockpaperscissor computer vs user
+rockpsci.ipynb: rockpaperscissor computer vs user
+guessnum.ipynb: guessing a number to match with generated number
